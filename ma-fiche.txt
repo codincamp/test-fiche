@@ -4,6 +4,8 @@ Prénom :
 
 Adresse :
 
+Date de naissance :
+
 Email
 
 Biographie
