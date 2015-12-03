@@ -1,3 +1,5 @@
+Nom du fichier photo : photo.png
+
 Nom : 
 
 Prénom :
