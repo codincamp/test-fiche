@@ -1,17 +1,40 @@
-Nom du fichier photo : photo.png
+TITRE : NOM PRENOM | Còdi n Camp - Promo 1
 
-Nom : 
+HEADER : NOM PRENOM - Promo 1
 
-Prénom :
+Nom
 
-Adresse :
+Prénom
 
-Date de naissance :
+Ville
+
+Age
 
 Email
 
+----------------------------------------
+
 Biographie
 
-Projets pro futurs
+----------------------------------------
 
-Hobbies
+Objectif après Còdi n Camp
+
+----------------------------------------
+
+Projets
+
+	Réalisée
+
+	En cours
+
+----------------------------------------
+
+Loisirs
+----------------------------------------
+
+FOOTER © - Còdi n Camp - 2015 - CC BY SA-NC
+
+
+
+
