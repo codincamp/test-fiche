@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.75;
+  margin: 0;
+}
+
+header {
+  background-color: #222222;
+  color: white;
+  padding: 25px 0;
+}
+header nav {
+  width: 960px;
+  margin: auto;
+  display: block;
+  color: white;
+}
+header span  {
+  float: left;
+  margin-right: 20px;
+  color: #71b43d;
+}
+
+.menu {
+  display: inline;
+  list-style-type: none;
+}
+.menu li {
+  float: left;
+  margin-right: 20px;
+}
+.menu li a{
+  color: white;
+  text-decoration: none;
+}
+.menu li a:hover{
+  color: #71b43d;
+}
+
+
+
+header, footer {
+  font-size: 2em;
+}
+
+section > div {
+  width: 960px;
+  margin:auto;
+}
+.grey-bg {
+  background-color: #f7f7f7;
+}
