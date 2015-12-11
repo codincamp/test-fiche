@@ -2,6 +2,8 @@ TITRE : NOM PRENOM | Còdi n Camp - Promo 1
 
 HEADER : NOM PRENOM - Promo 1
 
+----------------------------------------
+
 Nom
 
 Prénom
@@ -34,7 +36,3 @@ Loisirs
 ----------------------------------------
 
 FOOTER © - Còdi n Camp - 2015 - CC BY SA-NC
-
-
-
-

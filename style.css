@@ -38,16 +38,69 @@ header span  {
   color: #71b43d;
 }
 
-
+section.container {
+  min-height: 215px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
 
 header, footer {
   font-size: 2em;
 }
 
-section > div {
+section > div.row {
   width: 960px;
   margin:auto;
 }
+
+section h1 {
+  margin-top: 0px;
+}
+
 .grey-bg {
   background-color: #f7f7f7;
+
+}
+
+#about .left, #project .left {
+  width: 50%;
+  float: left;
+  text-align: center
+}
+
+#about .right, #project .right {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.trombi {
+  list-style-type: none;
+}
+
+.trombi li {
+  float: left;
+  width: 20%;
+}
+
+.trombi img {
+  display: block;
+}
+
+#pCpt{
+  color:red;
+}
+
+.colorRed{
+  border: 2px red solid;
+}
+.colorGreen{
+  border: 2px green solid;
+}
+
+
+
+.zoomImage{
+  zoom: 150%;
+  -moz-transform: scale(2);
 }
